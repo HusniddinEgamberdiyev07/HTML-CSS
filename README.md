@@ -1,7 +1,7 @@
 I am learning Html and Css.
 # HTML Roadmap
 
-## 1️⃣ Basics (Day 1–3)
+## 1️⃣ Basics
 
 Learn the structure and basic building blocks of a webpage:
 
@@ -16,7 +16,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 2️⃣ Text & Formatting (Day 4–5)
+## 2️⃣ Text & Formatting
 
 * Bold, italic, underline: `<b>`, `<strong>`, `<i>`, `<em>`
 * Subscript & superscript: `<sub>`, `<sup>`
@@ -26,7 +26,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 3️⃣ Links & Images (Day 6–7)
+## 3️⃣ Links & Images
 
 * Links: `<a href="URL">text</a>`
 * Target attribute: `_blank`, `_self`
@@ -37,7 +37,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 4️⃣ Lists (Day 8–9)
+## 4️⃣ Lists
 
 * Ordered list: `<ol>` + `<li>`
 * Unordered list: `<ul>` + `<li>`
@@ -45,7 +45,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 5️⃣ Tables (Day 10–11)
+## 5️⃣ Tables
 
 * Table: `<table>`
 * Rows: `<tr>`
@@ -55,7 +55,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 6️⃣ Forms & Inputs (Day 12–15)
+## 6️⃣ Forms & Inputs
 
 * Form tag: `<form>`
 * Inputs: text, email, password, number, checkbox, radio
@@ -67,7 +67,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 7️⃣ Semantic HTML (Day 16–18)
+## 7️⃣ Semantic HTML
 
 * Header: `<header>`
 * Navigation: `<nav>`
@@ -80,7 +80,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 8️⃣ Multimedia & Embeds (Day 19–20)
+## 8️⃣ Multimedia & Embeds
 
 * Audio: `<audio controls>`
 * Video: `<video controls>`
@@ -89,7 +89,7 @@ Learn the structure and basic building blocks of a webpage:
 
 ---
 
-## 9️⃣ Advanced Attributes & Meta (Day 21–22)
+## 9️⃣ Advanced Attributes & Meta
 
 * Meta tags: charset, viewport, description, keywords
 * Global attributes: `id`, `class`, `style`, `title`, `hidden`
